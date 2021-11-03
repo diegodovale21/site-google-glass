@@ -1,2 +1,2 @@
-# Curso HTML/CSS/JavaScript-Curso em Video
+# Curso HTML/CSS-Curso em Video
  Projeto Google Glass - Professor Gustavo Guanabara
